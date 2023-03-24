@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there! 👋
 
-<!--
-**jcbecleo/jcbecleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jayce, a 2nd year Computer Science student. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+About Me 🧑🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently studying BS Computer Science at the University of San Carlos
+💻 I'm passionate about coding and always eager to learn new things
+🌱 I'm currently learning C, Python, alongside some web frameworks.
+🤖 I'm interested in AI and Machine Learning
+🏆 In my free time, I like to game and learn about new developments in technology. 🔧
+
+Programming languages: C, Python, Java, C#, Javascript
+Tools & Technologies: ReactJS, NodeJS, PHP Laravel, Postman
+Operating Systems: Windows and MacoS
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
