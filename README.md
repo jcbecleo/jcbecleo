@@ -8,7 +8,7 @@ About Me 🧑🏻‍💻
 💻 I'm passionate about coding and always eager to learn new things
 🌱 I'm currently learning C, Python, alongside some web frameworks.
 🤖 I'm interested in AI and Machine Learning
-🏆 In my free time, I like to game and learn about new developments in technology. 🔧
+🏆 In my free time, I like to game and learn about new developments in technology. 
 
 Programming languages: C, Python, Java, C#, Javascript
 
