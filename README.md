@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Jayce, a 2nd year Computer Science student. Welcome to my GitHub profile!
+I'm Jayce, a 3rd year Computer Science student. Welcome to my GitHub profile!
 
 About Me 🧑🏻‍💻
 
