@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year Computer Science Student at University of San Carlos</h3> <br>
 
 <div align="center">
-🚀 Hey there! I'm Joss Chary Borj Ecleo, a 20yr old ComSci junior fueled not just by caffeine, but also by a genuine aspiration to make contributions to the growth and potential of technology. 
+🚀 Hey there! I'm Joss Chary Borj Ecleo, a 20yr old ComSci junior fueled not just by caffeine, but also by a genuine aspiration to make contributions to the growth and potential of technology. <br><br>
   
 📚 Currently in my 3rd year at the University of San Carlos, I'm balancing my academic pursuits with a passion for web and mobile development, along with the captivating world of data science. When I'm not deciphering the secrets of code or diving into the realms of React and Flutter, you'll find me lifting weights at the gym, experimenting with culinary creations in the kitchen. <br><br>
 
