@@ -1,25 +1,31 @@
-<h1 align="center">Hi!👋🏼 I'm Joss Ecleo</h1>
-<h3 align="center">4th Year Computer Science Student at University of San Carlos</h3> <br>
+![What's up! I'm Joss 🤠](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<div align="center">
-🚀 Hey there! I'm Joss Chary Borj Ecleo, a 21yr old ComSci senior fueled not just by caffeine, but also by a genuine aspiration to make contributions to the growth and potential of technology. <br><br>
-  
-📚 Currently in my 4th year at the University of San Carlos, I'm balancing my academic pursuits with a passion for web and mobile development, along with the captivating world of data science. When I'm not deciphering the secrets of code or learning about React or Flutter, you'll find me lifting weights at the gym or experimenting with culinary creations in the kitchen. <br><br>
-
-💭 Focusing on school, however I'm also actively looking for internship opportunities to upskill and improve at my craft! 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        What's up! I'm Joss 🤠
+      </h1>
+    </summary>
+  </ul>
 </div>
-<hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/jcbecleo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joss ecleo" height="30" width="40" /></a>
-<a href="https://web.facebook.com/ecleojoss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joss ecleo" height="30" width="40" /></a>
-</p>
-<hr>
 
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://www.linkedin.com/in/jcbecleo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/jcbecleo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-<hr>
+ **<h3 align="center">Full-Stack Software Engineer focused on building lightning-fast, rock-solid websites with a creative touch. Based in the Philippines.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **A Siargao Staycation Booking App**
+- 🌱 I'm currently learning: **NestJS and ShadcnUI**
+- 📂 Portfolio: **<a href="jcbecleo.com" target="_blank">jcbecleo.com</a>**
+
+ **<h3 align="center">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="TypeScript" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="28" alt="Next.js" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="Tailwind" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/astro/FF5D01" height="28" alt="Astro" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/express/000000" height="28" alt="Express" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="28" alt="NestJs" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="28" alt="Laravel" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/flutter/02569B" height="28" alt="Flutter" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="28" alt="Figma" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="Firebase" style="margin-right: 12px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
 
 <div align="center">
 <h3>Top Languages I've used</h3>
