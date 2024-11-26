@@ -1,6 +1,6 @@
  **<h3 align="center">👋🏼 What's up! It's Joss</h3>**
 
-**<p align="center">🚀 Software Engineer focused on building lightning-fast, rock-solid websites with a creative touch, based in the Philippines</p>**
+**<p align="center">🚀 Software Engineer based in the Philippines, specializing in Next and Firebase</p>**
 
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/jcbecleo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36" style="margin-right: 8px"></a> <a href="https://github.com/jcbecleo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="36" style="margin-right: 8px"></a></p>
